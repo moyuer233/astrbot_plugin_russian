@@ -1,0 +1,6 @@
+name: astrbot_plugin_russian
+display_name: 俄罗斯轮盘
+desc: 群聊俄罗斯轮盘决斗小游戏：装弹、轮流开枪、金币赌注、每日签到与排行榜。移植自 HibiKier/nonebot_plugin_russian
+version: v1.0.0
+author: HibiKier(原版) / AstrBot 移植
+repo: https://github.com/qwqZYLqwq/astrbot_plugin_russian

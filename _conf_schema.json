@@ -1,0 +1,36 @@
+{
+  "max_bet_gold": {
+    "description": "单场对决赌注上限",
+    "type": "int",
+    "default": 1000,
+    "hint": "装弹时允许下注的最大金币数"
+  },
+  "default_bet_gold": {
+    "description": "对决默认赌注",
+    "type": "int",
+    "default": 200,
+    "hint": "装弹时未指定金额时使用的默认赌注"
+  },
+  "sign_gold_min": {
+    "description": "每日签到金币下限",
+    "type": "int",
+    "default": 1
+  },
+  "sign_gold_max": {
+    "description": "每日签到金币上限",
+    "type": "int",
+    "default": 100
+  },
+  "timeout": {
+    "description": "对决行动超时时间（秒）",
+    "type": "int",
+    "default": 30,
+    "hint": "超时后对局作废或可被对方强制结算"
+  },
+  "bot_name": {
+    "description": "裁判（机器人）名称",
+    "type": "string",
+    "default": "本裁判",
+    "hint": "用于结算文案中的手续费提示"
+  }
+}
