@@ -10,6 +10,8 @@ _✨ AstrBot 群聊俄罗斯轮盘决斗小游戏 ✨_
   <img src="https://img.shields.io/badge/AstrBot-插件-blue" alt="AstrBot">
   <img src="https://img.shields.io/github/license/qwqZYLqwq/astrbot_plugin_russian" alt="license">
   <img src="https://img.shields.io/github/v/release/qwqZYLqwq/astrbot_plugin_russian" alt="release">
+  <img src="https://img.shields.io/github/commit-activity/m/qwqZYLqwq/astrbot_plugin_russian" alt="commit activity">
+  <img src="https://img.shields.io/github/last-commit/qwqZYLqwq/astrbot_plugin_russian" alt="last commit">
 </p>
 
 向 7 格弹巢中装填 1~6 发实弹，随机排布。发起者装弹下注，任意群友（或被 @ 指定的对象）接受对决后，
